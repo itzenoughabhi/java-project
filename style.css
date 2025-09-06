@@ -1003,7 +1003,6 @@ footer {
 
 /*****  media queries Section *****/
 
-/* https://getbootstrap.com/docs/5.0/layout/breakpoints/ */
 
 @media (width <= 1380px) {
   html {
@@ -1190,10 +1189,7 @@ footer {
     grid-column: 4 / -1;
   }
 
-  /* footer .grid-four--cols {
-    grid-template-columns: repeat(1, minmax(100%, 1fr));
-    text-align: center;
-  } */
+  
 
   .section-navbar .container {
     flex-direction: column;
