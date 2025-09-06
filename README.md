@@ -18,6 +18,11 @@ A modular web application featuring user authentication, product listing, shoppi
 - ⚡ **Vite-powered Development** — Fast hot-reload and build system.  
 
 ---
+![WhatsApp Image 2025-09-06 at 16 07 50_5f50e7a9](https://github.com/user-attachments/assets/dfa5ce24-f2b4-4ea7-9309-108a6e9d38b0)
+
+<img width="1907" height="892" alt="image" src="https://github.com/user-attachments/assets/2fede8d6-aa9a-4dae-a4fa-cf248b5ce320" />
+
+
 
 ## 🚀 Setup & Installation
 
@@ -26,5 +31,5 @@ A modular web application featuring user authentication, product listing, shoppi
    git clone https://github.com/itzenoughabhi/java-project.git
    cd java-project
 npm install
-npm install
+npm run dev
 
