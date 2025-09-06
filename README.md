@@ -1,4 +1,4 @@
-# Java Project 🚀
+# JavaScript Project 🚀
 
 A modular web application featuring user authentication, product listing, shopping cart functionality, and more — built using **HTML, CSS, JavaScript, and Vite**.
 
@@ -6,6 +6,33 @@ A modular web application featuring user authentication, product listing, shoppi
 
 ## 📂 Project Structure
 
+java-project/
+│
+├── index.html
+├── about.html
+├── contact.html
+├── products.html
+├── login.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   ├── addToCart.js
+│   ├── cartProducts.js
+│   ├── footer.js
+│   ├── navbar.js
+│   ├── showToast.js
+│   ├── updateCartValue.js
+│   └── main.js
+│
+├── images/
+│   └── (product and UI images)
+│
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
 ---
 
 ## ✨ Features
